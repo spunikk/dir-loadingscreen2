@@ -90,11 +90,11 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "TUOPvtVZwo8", name: "Praise the Lord and Pass the Ammunition"},
-	{youtube: "v54vZ4W8598", name: "The Marine Corps Hymn, March"},
-	{youtube: "4NXFCDgyanA", name: "Royal Navy - Heart of Oak"},
-	{youtube: "JeJIUWTYv2w", name: "Schwarzbraun ist die Haselnuss - Marschlied"},
-	{youtube: "0evkEmgBgx0", name: "Panzerlied - Marschlied"}
+	{youtube: "YPzTGx96P6U", name: "Panzerlied"},
+	{youtube: "LZDJUTYDiq8", name: "Erika"},
+	{youtube: "bUsePoATbrU", name: "Lili Marleen - WW2"},
+	{youtube: "JeJIUWTYv2w", name: "Schwarzbraun ist die Haselnuss"},
+	{youtube: "d29GGnHg9OM", name: "In Einem Polenstädtchen"}
 
 ];
 
