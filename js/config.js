@@ -59,7 +59,9 @@ var l_bgImages = [
 	"backgrounds/images/w7.jpg",
 	"backgrounds/images/w8.jpg",	
 	"backgrounds/images/w9.jpg",	
-	"backgrounds/images/w10.jpg"	
+	"backgrounds/images/w10.jpg",
+	"backgrounds/images/w11.jpg"
+	
 ];
 
 /*Random background images order?*/
