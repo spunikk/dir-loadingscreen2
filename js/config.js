@@ -56,8 +56,10 @@ var l_bgImages = [
 	"backgrounds/images/w4.jpg",
 	"backgrounds/images/w5.jpg",
 	"backgrounds/images/w6.jpg",
-	"backgrounds/images/w7.jpg"
-	
+	"backgrounds/images/w7.jpg",
+	"backgrounds/images/w8.jpg",	
+	"backgrounds/images/w9.jpg",	
+	"backgrounds/images/w10.jpg",	
 ];
 
 /*Random background images order?*/
@@ -90,12 +92,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "YPzTGx96P6U", name: "Panzerlied"},
-	{youtube: "LZDJUTYDiq8", name: "Erika"},
-	{youtube: "bUsePoATbrU", name: "Lili Marleen - WW2"},
-	{youtube: "JeJIUWTYv2w", name: "Schwarzbraun ist die Haselnuss"},
-	{youtube: "d29GGnHg9OM", name: "In Einem Polenstädtchen"}
-
+	{youtube: "1a9-s23Rz6w", name: "Neue deutsche Welle (Remix)"},
+	{youtube: "6YQfj3TXUXo", name: "Adolf Hitler Mother Führer Gentleman"},
+	{youtube: "aaf81eUz05A", name: "Two Steps From Hell - Victory"}
 ];
 
 /*Random music order?*/
@@ -110,12 +109,19 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"I saw my enemies in Munich, and they're worms. -Adolf Hitler",
-"Never in the field of human conflict has so much been owed by so many to so few. -Winston Churchill",
-"Which would your men rather be, tired, or dead? -Erwin Rommel",
-"If everyone is thinking alike, then somebody isn't thinking. -George S. Patton",
-"If we have power, we'll never give up unless we're carried out of our offices as corpses. -Joseph Goebbels",
-"The mediterranean will be turned into an Italian lake. -Benito Mussolini"
+"I saw my enemies in Munich, and they're worms. - Adolf Hitler",
+"Never in the field of human conflict has so much been owed by so many to so few. - Winston Churchill",
+"Which would your men rather be, tired, or dead? - Erwin Rommel",
+"If everyone is thinking alike, then somebody isn't thinking. - George S. Patton",
+"If we have power, we'll never give up unless we're carried out of our offices as corpses. - Joseph Goebbels",
+"The mediterranean will be turned into an Italian lake. - Benito Mussolini",
+"I have nothing to offer but blood, toil, tears and sweat. - Winston Churchill",
+"Today we rule Germany, tomorrow, the world. - Adolf Hitler",
+"Strength lies not in defence but in attack. - Adolf Hitler", 
+"One death is a tragedy; one million is a statistic. - Joseph Stalin",
+"This war is a new kind of war. It is warfare in terms of every continent, every island, every sea, every air lane in the world. - Franklin D. Roosevelt",
+"The great leaders have always stage-managed their effects. - Charles de Gaulle"	
+
 
 ];
 
