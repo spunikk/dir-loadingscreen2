@@ -51,11 +51,9 @@ Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
         "backgrounds/images/w1.jpg",
-	"backgrounds/images/w2.jpg",
 	"backgrounds/images/w3.jpg",
 	"backgrounds/images/w4.jpg",
 	"backgrounds/images/w5.jpg",
-	"backgrounds/images/w6.jpg",
 	"backgrounds/images/w7.jpg",
 	"backgrounds/images/w8.jpg",	
 	"backgrounds/images/w9.jpg",	
@@ -95,7 +93,6 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{youtube: "1a9-s23Rz6w", name: "Neue deutsche Welle (Remix)"},
-	{youtube: "6YQfj3TXUXo", name: "Adolf Hitler Mother Führer Gentleman"},
 	{youtube: "aaf81eUz05A", name: "Two Steps From Hell - Victory"}
 ];
 
