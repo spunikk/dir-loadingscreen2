@@ -124,10 +124,10 @@ var l_messages = [
 "Those who want to live, let them fight, and those who do not want to fight in this world of eternal struggle do not deserve to live. - Adolf Hitler"
 "One death is a tragedy; one million is a statistic. - Joseph Stalin",
 "This war is a new kind of war. It is warfare in terms of every continent, every island, every sea, every air lane in the world. - Franklin D. Roosevelt",
-"The great leaders have always stage-managed their effects. - Charles de Gaulle"	
-"Through You we will push back our adversaries; Through Your name we will trample down those who rise up against us. - Psalm 44:5"
-"If you're going through hell, keep going. - Winston Churchill"
-"The highest of distinctions is service to others. - George VI"
+"The great leaders have always stage-managed their effects. - Charles de Gaulle",	
+"Through You we will push back our adversaries; Through Your name we will trample down those who rise up against us. - Psalm 44:5",
+"If you're going through hell, keep going. - Winston Churchill",
+"The highest of distinctions is service to others. - George VI",
 "Men are not prisoners of fate, but only prisoners of their own minds. - Franklin D. Roosevelt"
 
 
