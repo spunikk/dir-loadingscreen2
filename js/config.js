@@ -121,7 +121,7 @@ var l_messages = [
 "I have nothing to offer but blood, toil, tears and sweat. - Winston Churchill",
 "Today we rule Germany, tomorrow, the world. - Adolf Hitler",
 "Strength lies not in defence but in attack. - Adolf Hitler", 
-"Those who want to live, let them fight, and those who do not want to fight in this world of eternal struggle do not deserve to live. - Adolf Hitler"
+"Those who want to live, let them fight, and those who do not want to fight in this world of eternal struggle do not deserve to live. - Adolf Hitler",
 "One death is a tragedy; one million is a statistic. - Joseph Stalin",
 "This war is a new kind of war. It is warfare in terms of every continent, every island, every sea, every air lane in the world. - Franklin D. Roosevelt",
 "The great leaders have always stage-managed their effects. - Charles de Gaulle",	
