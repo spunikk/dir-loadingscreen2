@@ -92,8 +92,12 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "1a9-s23Rz6w", name: "Neue deutsche Welle (Remix)"},
-	{youtube: "aaf81eUz05A", name: "Two Steps From Hell - Victory"}
+	{youtube: "rNdZu0A6Qks", name: "Two Steps From Hell - No Honor in Blood"},
+	{youtube: "bG2BEjDfh3I", name: "Two Steps From Hell - Stormkeeper"},
+	{youtube: "Y1qzm3UUTrg", name: "Thomas Bergersen - Illusions"},
+	{youtube: "vwZ5-P3FnEk", name: "Audiomachine - Transcendence"},
+	{youtube: "2UeA9Nus9Eg", name: "Zack Hemsey - See what I´ve become"},
+	{youtube: "KsRmNnGi3-o", name: "Audiomachine - Unfinished Life"}
 ];
 
 /*Random music order?*/
@@ -117,9 +121,14 @@ var l_messages = [
 "I have nothing to offer but blood, toil, tears and sweat. - Winston Churchill",
 "Today we rule Germany, tomorrow, the world. - Adolf Hitler",
 "Strength lies not in defence but in attack. - Adolf Hitler", 
+"Those who want to live, let them fight, and those who do not want to fight in this world of eternal struggle do not deserve to live. - Adolf Hitler"
 "One death is a tragedy; one million is a statistic. - Joseph Stalin",
 "This war is a new kind of war. It is warfare in terms of every continent, every island, every sea, every air lane in the world. - Franklin D. Roosevelt",
 "The great leaders have always stage-managed their effects. - Charles de Gaulle"	
+"Through You we will push back our adversaries; Through Your name we will trample down those who rise up against us. - Psalm 44:5"
+"If you're going through hell, keep going. - Winston Churchill"
+"The highest of distinctions is service to others. - George VI"
+"Men are not prisoners of fate, but only prisoners of their own minds. - Franklin D. Roosevelt"
 
 
 ];
