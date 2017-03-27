@@ -58,7 +58,18 @@ var l_bgImages = [
 	"backgrounds/images/w8.jpg",	
 	"backgrounds/images/w9.jpg",	
 	"backgrounds/images/w10.jpg",
-	"backgrounds/images/w11.jpg"
+	"backgrounds/images/w11.jpg",
+	"backgrounds/images/w12.jpg",
+	"backgrounds/images/w13.jpg",
+	"backgrounds/images/w14.jpg",
+	"backgrounds/images/w15.jpg",
+	"backgrounds/images/w16.jpg",
+	"backgrounds/images/w17.jpg",
+	"backgrounds/images/w18.jpg",
+	"backgrounds/images/w19.jpg",
+	"backgrounds/images/w20.jpg",
+	"backgrounds/images/w21.jpg",
+	"backgrounds/images/w22.jpg"
 	
 ];
 
