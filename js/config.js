@@ -50,26 +50,18 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-        "backgrounds/images/w1.jpg",
+    "backgrounds/images/w1.jpg",
 	"backgrounds/images/w3.jpg",
 	"backgrounds/images/w4.jpg",
 	"backgrounds/images/w5.jpg",
+	"backgrounds/images/w6.jpg",
 	"backgrounds/images/w7.jpg",
-	"backgrounds/images/w8.jpg",	
-	"backgrounds/images/w9.jpg",	
-	"backgrounds/images/w10.jpg",
+	"backgrounds/images/w8.jpg",
+	"backgrounds/images/w9.jpg",
+    "backgrounds/images/w10.jpg",
 	"backgrounds/images/w11.jpg",
-	"backgrounds/images/w12.jpg",
-	"backgrounds/images/w13.jpg",
-	"backgrounds/images/w14.jpg",
-	"backgrounds/images/w15.jpg",
-	"backgrounds/images/w16.jpg",
-	"backgrounds/images/w17.jpg",
-	"backgrounds/images/w18.jpg",
-	"backgrounds/images/w19.jpg",
-	"backgrounds/images/w20.jpg",
-	"backgrounds/images/w21.jpg",
-	"backgrounds/images/w22.jpg"
+	"backgrounds/images/w12.jpg"
+
 	
 ];
 
@@ -103,12 +95,12 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "rNdZu0A6Qks", name: "Two Steps From Hell - No Honor in Blood"},
-	{youtube: "bG2BEjDfh3I", name: "Two Steps From Hell - Stormkeeper"},
-	{youtube: "Y1qzm3UUTrg", name: "Thomas Bergersen - Illusions"},
-	{youtube: "vwZ5-P3FnEk", name: "Audiomachine - Transcendence"},
-	{youtube: "2UeA9Nus9Eg", name: "Zack Hemsey - See what I´ve become"},
-	{youtube: "KsRmNnGi3-o", name: "Audiomachine - Unfinished Life"}
+	{youtube: "ZB12-A2A4FA", name: "Davon Geht Die Welt Nicht Unter - Zarah Leander"},
+	{youtube: "UXKr4HSPHT8", name: "Die Internationale"},
+	{youtube: "3hPAI3O-1Vg", name: "Stolz weht die Flagge Schwarz-Weiß-Rot"},
+	{youtube: "9dZj7YW5oFQ", name: "Trüber Sonntag"},
+	{youtube: "Jk_yAEDnny4", name: "Isham Jones Orchestra - Who's Sorry Now"}
+
 ];
 
 /*Random music order?*/
@@ -116,30 +108,25 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 8;
+var l_musicVolume = 34;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"I saw my enemies in Munich, and they're worms. - Adolf Hitler",
-"Never in the field of human conflict has so much been owed by so many to so few. - Winston Churchill",
-"Which would your men rather be, tired, or dead? - Erwin Rommel",
-"If everyone is thinking alike, then somebody isn't thinking. - George S. Patton",
-"If we have power, we'll never give up unless we're carried out of our offices as corpses. - Joseph Goebbels",
-"The mediterranean will be turned into an Italian lake. - Benito Mussolini",
-"I have nothing to offer but blood, toil, tears and sweat. - Winston Churchill",
-"Today we rule Germany, tomorrow, the world. - Adolf Hitler",
-"Strength lies not in defence but in attack. - Adolf Hitler", 
-"Those who want to live, let them fight, and those who do not want to fight in this world of eternal struggle do not deserve to live. - Adolf Hitler",
-"One death is a tragedy; one million is a statistic. - Joseph Stalin",
-"This war is a new kind of war. It is warfare in terms of every continent, every island, every sea, every air lane in the world. - Franklin D. Roosevelt",
-"The great leaders have always stage-managed their effects. - Charles de Gaulle",	
-"Through You we will push back our adversaries; Through Your name we will trample down those who rise up against us. - Psalm 44:5",
-"If you're going through hell, keep going. - Winston Churchill",
-"The highest of distinctions is service to others. - George VI",
-"Men are not prisoners of fate, but only prisoners of their own minds. - Franklin D. Roosevelt"
+"The war has ended, quite differently indeed from how we expected. Our politicians have failed us miserably. - Kaiser Wilhelm II",
+"If the Kaiser does not abdicate, the social revolution is inevitable. But I do not want it, I even hate it like sin. - Friedrich Ebert, SPD politician",
+"Act! Act! Courageously, decisively and constantly… disarm the counter-revolution, arm the masses, occupy all positions of power. Act quickly! - Rosa Luxemburg",
+"The working class must stand united against the Spartacists if democracy and socialism are not to be lost. - Gustav Noske",
+"An almost unbroken chain of homeless men extends the whole length of the great Hamburg-Berlin highway. It is the same scene for the entire 200 miles… - Heinrich Hauser, German writer",
+"This [the Treaty of Versailles] is not a peace. It is an armistice for 20 years. - Attributed to French military leader Ferdinand Foch",
+"You have no right to proclaim this Republic! - Friedrich Ebert to Philip Scheidemann",
+"Without democracy there is no freedom. Violence, no matter who is using it, is always reactionary. - Friedrich Ebert, SPD",
+"Everything depends on… making the government firm and keeping it firm. Whether it pleases us or not, there is nothing else, and whoever can, should help. - Hans von Seeckt, Reichswehr general", 
+"The wave of drunkenness which overtook the country ten years ago has left behind many hungover people. They have learned nothing. - Kurt Tucholsky on nationalism",
+"Wir wollen keine Judenfetzen von Berlin!” (‘We don’t want any Jew confetti [paper money] from Berlin’) - A Bavarian farmer",
+"Students and citizens, your resistance to the Republic and to democracy is simply a fear of words. You shy at them like restive horses; you fall into unreasoning panic at the sound of them. But they are just words… - Thomas Mann",
 
 
 ];
